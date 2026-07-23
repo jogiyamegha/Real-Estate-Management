@@ -3,5 +3,8 @@ src/assets/db/
 .vscode/settings.json
 /uploads
 config/dev.env
+config/firebase_default.json
 .vscode/launch.json
 src/temp/
+src/utils/subscriptionVerify.js
+src/utils/google/*.json
